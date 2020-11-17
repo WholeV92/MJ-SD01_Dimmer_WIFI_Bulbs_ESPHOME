@@ -10,3 +10,11 @@ Initial Port of the code from mjoshd's "esphome_martin-jerry-mj-sd01-dimmer".
   - Have left in the ability to to control  both the relay and the dimmer.  Relay to easily reset the lights if they drop from WiFi.  Left the dimmer as I am still trying to figure that out.
   
   
+Disclaimer
+⚠️ DANGER OF ELECTROCUTION ⚠️
+
+These devices are not toys. They use Mains AC so there is a danger of electrocution if not installed properly. If you don't know how to install it, please call an electrician. Remember: SAFETY FIRST. It is not worth to risk yourself, your family and your home if you don't know exactly what you are doing. Never try to connect a wire to flash a device while it is connected to MAINS AC.
+
+We don't take any responsibility nor liability for using this software nor for the installation or any tips, advice, videos, etc. given by any member of this site or any related site.
+
+Disclaimer borrowed from Tasmota github page.
